@@ -16,11 +16,7 @@
 </template>
 
 <script>
-// import io from "socket.io-client";
-// var test = require('../assets/socket.io');
 import io from "../assets/socket.io.js";
-
-// import io from "socket.io/node_modules/socket.io-client";
 
 export default {
 	name: "BlockGame",
